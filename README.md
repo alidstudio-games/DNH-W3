@@ -45,3 +45,9 @@ DNH W3 is a browser game developed by **ALID Studio**. It was created to practic
 ---
 
 Made with 🎮 by **ALID Studio**
+
+## 📂 Repository Contents
+
+- `Assets/Scripts/` — C# scripts for DNH W3
+- `Packages/` — Unity package configuration
+- `ProjectSettings/` — Unity version information
